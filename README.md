@@ -1,6 +1,6 @@
 ### Hi, I'm Roy 👋
 
-- 🌱 I’m currently learning Database systems and communication networks
+- 🌱 I’m currently learning: Database systems and communication networks
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/roy-carlton-456062152/)
 - 😄 Pronouns: He/Him
 
