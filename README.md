@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning: Database systems and communication networks
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/roy-carlton-456062152/)
-- 😄 Pronouns: He/Him
 
 <!--
 **roycarlton/roycarlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
