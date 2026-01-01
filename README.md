@@ -1,6 +1,5 @@
 ### Hi, I'm Roy 👋
 
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/roy-carlton-456062152/)
 
 <!--
 **roycarlton/roycarlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
